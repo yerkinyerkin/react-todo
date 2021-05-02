@@ -6,7 +6,7 @@ export const Navbar: React.FunctionComponent = () => {
 		<nav>
 			<div className="nav-wrapper  purple accent-4 px1">
 				<a href="/" className="brand-logo">
-					React+Typescript
+					ReactYerkin
 				</a>
 				<ul className="right hide-on-med-and-down">
 					<li>
